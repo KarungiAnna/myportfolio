@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96b57c32.css",
+    "main.js": "/static/js/main.4249f724.js",
+    "static/media/school management system.png": "/static/media/school management system.fa91ed2eda43cef8f324.png",
+    "static/media/profl.jpg": "/static/media/profl.6bcd0499e781c889060f.jpg",
+    "static/media/guessing game2.png": "/static/media/guessing game2.885559570801c362d8e3.png",
+    "static/media/casestudy.png": "/static/media/casestudy.d849a5b9708a82f98604.png",
+    "index.html": "/index.html",
+    "main.96b57c32.css.map": "/static/css/main.96b57c32.css.map",
+    "main.4249f724.js.map": "/static/js/main.4249f724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b57c32.css",
+    "static/js/main.4249f724.js"
+  ]
+}
