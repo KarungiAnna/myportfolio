@@ -1,0 +1,119 @@
+body {
+    padding: 50px;
+    background-color: #504457;
+  }
+  @media only screen and (max-width: 1200px) and (min-width: 375px) {
+    body {
+        background-color: #504457;
+    }
+    #pages {
+      display: flex;
+      justify-content: space-around;
+      font-size: 19px;
+      padding-left: 1rem;
+      margin-bottom: 2rem;
+      margin-top: 1rem;
+    }
+    footer {
+      flex-direction: column;
+      padding: 3rem;
+    }
+    #cpyrght {
+      padding-top: 2rem;
+    }
+    #ima {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+    .lin:hover {
+      color: blue;
+    }
+    .lin:active {
+      color: white;
+    }
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: #f7717e;
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 65px;
+    font-family: "Gideon Roman", cursive;
+  }
+  h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Gideon Roman", cursive;
+  }
+  h3 {
+    font-family: "M PLUS Code Latin", sans-serif;
+  }
+  .container-sm {
+    align-self: center;
+  }
+  footer {
+    padding: 18px;
+  }
+  .profileimage {
+    height: 200px;
+    width: 200px;
+    border-radius: 170px 170px;
+  }
+  #pages {
+    display: flex;
+    justify-content: space-around;
+    font-size: 19px;
+    padding-left: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+  }
+  
+  .lin {
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: "Gideon Roman", cursive;
+    color: #e8d1c2;
+    padding-right: 0rem;
+  }
+  .lin:hover {
+    color: blue;
+  }
+  .lin:active {
+    color:darkgray;
+  }
+  
+  .fir {
+    display: block;
+  }
+  i {
+    padding: 10px;
+    font-family: "Gideon Roman", cursive;
+    color: #e8d1c2;
+  }
+  #ima {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  h4 {
+    font-family: "Gideon Roman", cursive;
+    text-align: center;
+    color:#e8d1c2;
+  }
+  
+  #one,
+  #two,
+  #three {
+    width: 100%;
+  }
+  
